@@ -1,4 +1,4 @@
-# customer_segmentation
+#PRODIGY_ML_01
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
